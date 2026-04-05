@@ -1,6 +1,16 @@
 **Hyperschedule**: responsive scheduler for HMC classes. Check out the
 webapp [here][hyperschedule]!
 
+(Note: My memory of 2017 is not what it used to be, but judging by
+commit history, this is the *very first* version of Hyperschedule,
+predating even
+[Hyposchedule](https://github.com/radian-software/hyposchedule) which
+was then replaced by
+[Hyperschedule](https://github.com/hyperschedule/hyperschedule) which
+was totally rewritten by other contributors in the time since.
+Needless to say, this project itself is very very dead, and the API it
+relied on is long gone.)
+
 ## Dependencies
 
 * [Git](https://git-scm.com/) (to obtain and contribute to the code)
